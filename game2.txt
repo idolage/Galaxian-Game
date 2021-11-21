@@ -1,0 +1,121 @@
+   
+			  _____           _                   _   _                 
+			 |_   _|         | |                 | | (_)                
+			   | |  _ __  ___| |_ _ __ _   _  ___| |_ _  ___  _ __  ___ 
+			   | | | '_ \/ __| __| '__| | | |/ __| __| |/ _ \| '_ \/ __|
+			  _| |_| | | \__ \ |_| |  | |_| | (__| |_| | (_) | | | \__ \
+			 |_____|_| |_|___/\__|_|   \__,_|\___|\__|_|\___/|_| |_|___/
+                                                            
+                                                            
+   
+ 			
+                  >  Goal of the game is to avoid the enemy bullets and to shoot the enemies
+
+          > The invaders randomly fire missiles down the screen from the centre of their bodies.
+ 
+					     ___
+					 ___/   \___
+					/   '---'   \
+					'--_______--'
+					     /*\
+					    /***\
+  
+		     > Use LEFT and RIGHT arrow keys to control your spaceship.
+	
+			                  __|__
+			                   _|_
+			                  / _ \
+			               __/ (_) \__
+			          ____/_ ======= _\____
+			 ________/ _ \(_)_______(_)/ _ \________
+    <<<<<-----	       	<___+____ (_) | /   _   \ | (_) ____+___>     ------->>>>>
+			  O O O  \___/ |   (_)   | \___/  O O O
+			             \__\_______/__/
+
+
+                         
+    		 >To double shoot- Press Both LEFT and RIGHT arrow keys at once.
+                       
+                            >Player has only 5 lives for all the levels.
+
+			   >Collect 'O' to get extra lives in hard level.
+               
+           >In hard level enemy shuttles are moving and Don't let enemy shuttle to reach you!
+
+    >Apart from losing all 5 lives player will lost the game in hard level once an enemy shuttle reaches to space shuttle.
+		
+			  >WARNING: DON'T LET THE ALIENS COME NEAR YOU!!
+
+
+   	     	> Good Luck!..Lets start saving the world from an alien invasion.
+
+  				PRESS ENTER TO CONTINUE.....
+
+
+
+
+	      								
+
+
+
+
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+                                                                                                                                 
+
+                                                          
+                                                          
+    
+ 
+                                                                                                   
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 
+                                                                                 

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1578470009 source:c:\users\user\desktop\game222\main.cpp
+	<iostream>
+	"windows.h"
+	<MMsystem.h>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<conio.h>
+	<stdio.h>
+	"time.h"
+	<ctime>
+
+1578475444 source:c:\users\hp\desktop\game\galaxian\main.cpp
+	<iostream>
+	"windows.h"
+	<MMsystem.h>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<conio.h>
+	<stdio.h>
+	"time.h"
+	<ctime>
+
+1578548103 source:c:\users\user\desktop\galaxian\main.cpp
+	<iostream>
+	"windows.h"
+	<MMsystem.h>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<conio.h>
+	<stdio.h>
+	"time.h"
+	<ctime>
+
